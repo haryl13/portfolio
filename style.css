@@ -28,7 +28,7 @@ font-size: medium;;right:0px;width:80px;position: relative;}
 .schol{width:500px;height:80px;}
 .schead{font-size: 22px;font-family: 'Franklin Gothic Medium';color:aliceblue; left:10px; width:250px; position: relative;}
 
-.proj1{text-align: center;}
+.proj1{text-align: center;height:350px;}
 
 .proj1:hover{
     background-color: blueviolet;
